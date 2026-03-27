@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "numbers": ["5941", "66200/1"],
+    "name": "Rübezahl",
+    "dateTime": "2026-03-28T08:00:00.000Z",
+    "status": "planned",
+    "locomotive": "35 1097-1",
+    "ticketUrl": "https://railops.org/tickets/rubezahl-2026",
+    "soldOut": true,
+    "detailsUrl": "https://ldcev.de/fahrten/historic-schlesien-train-ruebezahl-nach-swidnica-schweidnitz-2/",
+    "organizer": {
+      "name": "Lausitzer Dampflok Club e.V.",
+      "logoUrl": "/ldc-logo.svg"
+    },
+    "position": { "lat": 51.1079, "lng": 17.0385 },
+    "from": {
+      "station": "Cottbus Hbf",
+      "departure": "2026-03-28T04:55:00.000Z"
+    },
+    "to": {
+      "station": "Jaworzyna Śląska",
+      "arrival": "2026-03-28T15:13:00.000Z"
+    }
+  },
+  {
+    "id": "2",
+    "numbers": ["5940", "67201"],
+    "name": "Rübezahl",
+    "dateTime": "2026-03-22T14:30:00.000Z",
+    "status": "planned",
+    "locomotive": "35 1097-1",
+    "ticketUrl": "https://railops.org/tickets/rubezahl-2026",
+    "soldOut": true,
+    "detailsUrl": "https://ldcev.de/fahrten/historic-schlesien-train-ruebezahl-nach-swidnica-schweidnitz-2/",
+    "organizer": {
+      "name": "Lausitzer Dampflok Club e.V.",
+      "logoUrl": "/ldc-logo.svg"
+    },
+    "position": { "lat": 50.7343, "lng": 16.6352 },
+    "from": {
+      "station": "Jaworzyna Śląska",
+      "departure": "2026-03-28T18:03:00.000Z"
+    },
+    "to": {
+      "station": "Cottbus Hbf",
+      "arrival": "2026-03-28T23:32:00.000Z"
+    }
+  }
+]
