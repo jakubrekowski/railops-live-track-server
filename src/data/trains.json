@@ -46,5 +46,53 @@
       "station": "Cottbus Hbf",
       "arrival": "2026-03-28T23:32:00.000Z"
     }
+  },
+  {
+    "id": "3",
+    "numbers": ["5945", "77272"],
+    "name": "Wojtek",
+    "dateTime": "2026-05-02T06:00:00.000Z",
+    "status": "planned",
+    "locomotive": "35 1097-1",
+    "ticketUrl": "https://lausitzerdampflokclub.reservix.de/p/reservix/event/2505582?discounts=bXTjmdWsjHYrwCyGTl9hzN7Orz6wDNAW",
+    "soldOut": false,
+    "detailsUrl": "https://ldcev.de/fahrten/wojtek-zur-30-dampflok-parade-in-wolsztyn-pl/",
+    "organizer": {
+      "name": "Lausitzer Dampflok Club e.V.",
+      "logoUrl": "/ldc-logo.svg"
+    },
+    "position": { "lat": 50.7343, "lng": 16.6352 },
+    "from": {
+      "station": "Dresden Neustadt",
+      "departure": "2026-05-02T06:00:00.000Z"
+    },
+    "to": {
+      "station": "Wolsztyn",
+      "arrival": "2026-05-02T12:38:00.000Z"
+    }
+  },
+  {
+    "id": "4",
+    "numbers": ["5945", "77272"],
+    "name": "Wojtek",
+    "dateTime": "2026-05-02T06:00:00.000Z",
+    "status": "planned",
+    "locomotive": "35 1097-1",
+    "ticketUrl": "https://lausitzerdampflokclub.reservix.de/p/reservix/event/2505582?discounts=bXTjmdWsjHYrwCyGTl9hzN7Orz6wDNAW",
+    "soldOut": false,
+    "detailsUrl": "https://ldcev.de/fahrten/wojtek-zur-30-dampflok-parade-in-wolsztyn-pl/",
+    "organizer": {
+      "name": "Lausitzer Dampflok Club e.V.",
+      "logoUrl": "/ldc-logo.svg"
+    },
+    "position": { "lat": 50.7343, "lng": 16.6352 },
+    "from": {
+      "station": "Wolsztyn",
+      "departure": "2026-05-02T17:17:00.000Z"
+    },
+    "to": {
+      "station": "Dresden Neustadt",
+      "arrival": "2026-05-02T23:20:00.000Z"
+    }
   }
 ]
