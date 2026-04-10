@@ -63,7 +63,7 @@
     },
     "position": { "lat": 50.7343, "lng": 16.6352 },
     "from": {
-      "station": "Dresden Neustadt",
+      "station": "Dresden-Neustadt",
       "departure": "2026-05-02T06:00:00.000+02:00"
     },
     "to": {
@@ -91,8 +91,56 @@
       "departure": "2026-05-02T17:17:00.000+02:00"
     },
     "to": {
-      "station": "Dresden Neustadt",
+      "station": "Dresden-Neustadt",
       "arrival": "2026-05-02T23:20:00.000+02:00"
+    }
+  },
+  {
+    "id": "5",
+    "numbers": ["n/a"],
+    "name": "18. Dampflok Treffen nach Dresden",
+    "dateTime": "2026-04-11T08:25:00.000+02:00",
+    "status": "planned",
+    "locomotive": "03 2155",
+    "ticketUrl": "https://lausitzerdampflokclub.reservix.de/p/reservix/event/2479338?discounts=TgZDIiYOOQCRLvTHD0Or0ZzUs8OIxH6G",
+    "soldOut": false,
+    "detailsUrl": "https://ldcev.de/fahrten/volldampf-zum-18-dampflok-treffen-nach-dresden/",
+    "organizer": {
+      "name": "Lausitzer Dampflok Club e.V.",
+      "logoUrl": "/ldc-logo.svg"
+    },
+    "position": { "lat": 50.7343, "lng": 16.6352 },
+    "from": {
+      "station": "Cottbus Hbf",
+      "departure": "2026-04-11T08:25:00.000+02:00"
+    },
+    "to": {
+      "station": "Dresden-Plauen",
+      "arrival": "2026-04-11T10:57:00.000+02:00"
+    }
+  },
+  {
+    "id": "6",
+    "numbers": ["n/a"],
+    "name": "18. Dampflok Treffen nach Dresden",
+    "dateTime": "2026-04-11T08:25:00.000+02:00",
+    "status": "planned",
+    "locomotive": "03 2155",
+    "ticketUrl": "https://lausitzerdampflokclub.reservix.de/p/reservix/event/2479338?discounts=TgZDIiYOOQCRLvTHD0Or0ZzUs8OIxH6G",
+    "soldOut": false,
+    "detailsUrl": "https://ldcev.de/fahrten/volldampf-zum-18-dampflok-treffen-nach-dresden/",
+    "organizer": {
+      "name": "Lausitzer Dampflok Club e.V.",
+      "logoUrl": "/ldc-logo.svg"
+    },
+    "position": { "lat": 50.7343, "lng": 16.6352 },
+    "from": {
+      "station": "Dresden-Plauen",
+      "departure": "2026-04-11T18:01:00.000+02:00"
+    },
+    "to": {
+      "station": "Cottbus Hbf",
+      "arrival": "2026-04-11T21:17:00.000+02:00"
     }
   }
 ]
