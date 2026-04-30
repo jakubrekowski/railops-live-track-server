@@ -181,7 +181,7 @@
     "id": "7",
     "numbers": [],
     "name": "",
-    "dateTime": "2026-05-01T06:00:00.000+02:00",
+    "dateTime": "2026-05-01T08:00:00.000+02:00",
     "status": "planned",
     "locomotive": "M62",
     "ticketUrl": "https://www.vytopnadolnilipka.cz/",
@@ -197,11 +197,11 @@
     },
     "from": {
       "station": "Lichkov",
-      "departure": "2026-05-01T06:00:00.000+02:00"
+      "departure": "2026-05-01T08:00:00.000+02:00"
     },
     "to": {
       "station": "Wolsztyn",
-      "arrival": "2026-05-01T19:28:00.000+02:00"
+      "arrival": "2026-05-01T21:28:00.000+02:00"
     }
   }
 ]
